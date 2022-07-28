@@ -1,8 +1,11 @@
 ## Holaaa! soy Camilo Acosta, Python Backend Developer👋
 <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧑 Camilo Acosta | 💻 Python Backend Developer | 🌏 Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+<div align="center">
   <a href="https://github.com/camiloschneider">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiloschneider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloschneider&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
   
   ## 🚀 Skills
