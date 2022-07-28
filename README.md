@@ -1,12 +1,24 @@
-## Holaaa! soy Camilo Acosta, Python Backend Developer👋
+
+<div align="center">
+   <h1>Holaa!, soy <a href="https://github.com/camiloschneider">Camilo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    
+</div>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧑 Camilo Acosta | 💻 Python Backend Developer | 🌏 Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+</div>
+
+  <p align='center'>
+   <a href="https://www.linkedin.com/in/camiloaacosta/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:devcamiloacosta12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://open.spotify.com/user/aa9lwxm1oat66xk01ikg86j87" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+ </p>
+ 
 <div align="center">
   <a href="https://github.com/camiloschneider">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiloschneider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-</div>
+
   
   ## 🚀 Skills
   
@@ -25,15 +37,8 @@
   
 </div>
 
-## 📱 Contact
-
-<div> 
-  
-  <a href="https://www.linkedin.com/in/camiloaacosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:devcamiloacosta12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://open.spotify.com/user/aa9lwxm1oat66xk01ikg86j87" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/camiloschneider/camiloschneider/blob/output/github-contribution-grid-snake.svg)
  
 </div>
