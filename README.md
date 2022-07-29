@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/camiloschneider">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiloschneider&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  
+  </div>
 
   
   ## 🛠 Technologies and tools
@@ -38,13 +38,10 @@
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">             <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">             <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
-  <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">                     <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">                                                      
-                                                                                                                                                    
-</div>
-
+  <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">                     <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">                              
   
- 
- 
+                                                                                                                                                   
+ ![Snake animation](https://github.com/camiloschneider/camiloschneider/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![snake gif](https://github.com/camiloschneider/camiloschneider/blob/output/github-contribution-grid-snake.gif)
+
