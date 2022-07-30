@@ -15,7 +15,7 @@
  </p>
  
 <div align="center">
-  <a href="https://github.com/camiloschneider">
+  <a href="https://github.com/devcamiloacosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcamiloacosta&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   </div>
 
@@ -43,7 +43,7 @@
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">                                                  
   
                                                                                                                                                    
- ![Snake animation](https://github.com/camiloschneider/camiloschneider/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/devcamiloacosta/devcamiloacosta/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
