@@ -39,8 +39,7 @@
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> 
   <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">             <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
-  <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
-  <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">                                                  
+  <img align="center" alt="cam-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">                                                 
   
                                                                                                                                                    
  ![Snake animation](https://github.com/devcamiloacosta/devcamiloacosta/blob/output/github-contribution-grid-snake.svg)
